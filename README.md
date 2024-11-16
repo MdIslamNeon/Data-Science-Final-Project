@@ -9,6 +9,8 @@
 Adrian Flores Aquino:
   - KNN Classification
     - Sample K's ==> (K=1, K=3, K=5, K=11, K=15, K=27, K=43)
+   
+      
 Md Islam:
   - Linear Regression
 Keyvan M. Kani:
